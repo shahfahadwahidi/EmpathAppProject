@@ -1,150 +1,56 @@
 Empath AI
 We Listen. You Heal.
 
-Empath AI is a mental health support platform designed to provide accessible, private, and stigma-free emotional care by combining AI-powered emotional support with access to real psychologists. The project was conceptualized, designed, and prototyped in Figma as part of a startup and case competition initiative.
+Empath AI is a mental health support app prototype designed to provide accessible, private, and stigma-free emotional care by combining AI-driven support with access to real psychologists. This project was designed and prototyped in Figma as part of a startup and case competition.
 
-📌 Project Overview
+🧠 Key Features
 
-Mental health remains a deeply stigmatized and under-supported area, especially among students and young adults. Empath AI aims to lower the barrier to seeking help by offering a safe digital space where users can talk, assess their mental well-being, and access professional support when needed.
+AI-based emotional support
 
-This repository contains the UI/UX design, user flows, and prototype of the Empath AI application.
+PHQ-9 & GAD-7 mental health assessments
 
-🎯 Objectives
+Therapy session booking (text / audio / video)
 
-Provide a judgment-free mental health support platform
+Subscription & pay-per-session pricing
 
-Offer affordable and flexible access to therapy
+Anonymous community support
 
-Enable early intervention through AI-driven emotional support
+🎨 Design
 
-Maintain privacy, anonymity, and emotional safety
+Designed in Figma
 
-Design a scalable and culturally relevant solution
+Calm, minimal, Gen-Z-friendly UI
 
-🧠 Core Features
-🤖 AI Emotional Support
+Privacy-first & emotionally safe UX
 
-Conversational AI designed to respond empathetically
+Mobile-first approach
 
-24/7 availability
+🔄 User Flow
 
-First point of support for users
+Onboarding → Assessment (optional) → AI Support → Community → Therapy Booking → Pricing
 
-🩺 Mental Health Assessments
+🛠 Tools
 
-PHQ-9 (Depression Screening)
+Figma (UI/UX & Prototyping)
 
-GAD-7 (Anxiety Screening)
+FigJam (Flows & Architecture)
 
-Optional and skippable by users
+Canva (Pitch & Visuals)
 
-👩‍⚕️ Therapy Sessions
-
-Text therapy sessions
-
-Audio / Video therapy sessions
-
-Bookable with or without a subscription
-
-💳 Flexible Pricing Model
-
-Free starter access
-
-Monthly subscription plans
-
-Pay-per-session therapy options
-
-👥 Community Space
-
-Anonymous peer support
-
-Moderated discussions
-
-Emotion-based categorization
-
-🎨 Design & UX
-
-Designed entirely in Figma
-
-Calm, minimal, Gen-Z-friendly interface
-
-Emotionally safe color palette
-
-Privacy-first and non-triggering UI
-
-Mobile-first design approach
-
-🔄 User Flow Summary
-
-Onboarding & Sign-up
-
-Optional mental health assessment
-
-AI emotional support
-
-Community access
-
-Therapy session booking
-
-Subscription or one-time session purchase
-
-🧩 Prototype Scope
-
-High-fidelity UI screens
-
-Interactive user flows
-
-Pricing and session logic
-
-Community and moderation concepts
-
-Note: This project currently represents a design prototype and conceptual architecture. Backend and AI services are not implemented in this version.
-
-🛠 Tools Used
-
-Figma – UI/UX design & prototyping
-
-FigJam – User flows & system mapping
-
-Canva – Presentation & marketing visuals
-
-👨‍👩‍👧 Team
+👥 Team
 
 Shah Fahad Wahidi – Founder & Team Lead
 
-Wajeeha Rauf – Researcher
+Wajeeha Rauf – Research
 
-Eshal Qaiser – Co-Researcher
+Eshal Qaiser – Co-Research
 
-Muhammad Umar Raza – App Architecture Designer
+Muhammad Umar Raza – App Architecture
 
-Zakki – Presentation Designer
+Zakki – Presentation Design
 
-Anees Ayaz – Documentation Lead
+Anees Ayaz – Documentation
 
-🚀 Future Scope
+🚀 Status
 
-Full mobile app development
-
-AI personalization improvements
-
-Urdu and regional language support
-
-Institutional partnerships (universities & organizations)
-
-Supervised platform for psychology graduates
-
-Mental health awareness campaigns
-
-📄 License
-
-This project is currently in the concept and design stage.
-All rights reserved by the Empath AI team.
-
-📬 Contact
-
-For collaboration, feedback, or inquiries:
-
-Shah Fahad Wahidi
-Founder, Empath AI
-LinkedIn: https://www.linkedin.com/in/shah-fahad-wahidi-046456189/
+This repository contains a design prototype only. Backend, AI, and production systems are not implemented.
